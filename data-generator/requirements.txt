@@ -1,0 +1,5 @@
+python-dotenv>=1.0.0
+kafka-python-ng>=2.2.2
+faker
+kafka-python
+python-dotenv
